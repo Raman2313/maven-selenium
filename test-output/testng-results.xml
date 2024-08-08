@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-06T11:46:11 IST" name="mysuit" finished-at="2024-08-06T11:46:32 IST" duration-ms="20351">
+    <groups>
+    </groups>
+    <test started-at="2024-08-06T11:46:11 IST" name="mytest" finished-at="2024-08-06T11:46:32 IST" duration-ms="20351">
+      <class name="TestNg.NewTest">
+        <test-method signature="teraUp()[pri:1, instance:TestNg.NewTest@661972b0]" started-at="2024-08-06T11:46:12 IST" name="teraUp" finished-at="2024-08-06T11:46:20 IST" duration-ms="8525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teraUp -->
+        <test-method signature="logo()[pri:2, instance:TestNg.NewTest@661972b0]" started-at="2024-08-06T11:46:20 IST" name="logo" finished-at="2024-08-06T11:46:21 IST" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logo -->
+        <test-method signature="Login()[pri:3, instance:TestNg.NewTest@661972b0]" started-at="2024-08-06T11:46:21 IST" name="Login" finished-at="2024-08-06T11:46:32 IST" duration-ms="10906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="teraDown()[pri:4, instance:TestNg.NewTest@661972b0]" started-at="2024-08-06T11:46:32 IST" name="teraDown" finished-at="2024-08-06T11:46:32 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teraDown -->
+      </class> <!-- TestNg.NewTest -->
+      <class name="TestNg.basic">
+        <test-method signature="LogIn()[pri:0, instance:TestNg.basic@32eff876]" started-at="2024-08-06T11:46:11 IST" name="LogIn" finished-at="2024-08-06T11:46:12 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method signature="Logout()[pri:0, instance:TestNg.basic@32eff876]" started-at="2024-08-06T11:46:12 IST" name="Logout" finished-at="2024-08-06T11:46:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method signature="OpenURL()[pri:0, instance:TestNg.basic@32eff876]" started-at="2024-08-06T11:46:12 IST" name="OpenURL" finished-at="2024-08-06T11:46:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+      </class> <!-- TestNg.basic -->
+    </test> <!-- mytest -->
+  </suite> <!-- mysuit -->
+</testng-results>
